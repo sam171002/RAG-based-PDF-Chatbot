@@ -10,12 +10,12 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # ----------------- CONFIG -----------------
-SESSIONS_DIR = Path(r"C:\Users\Asus\sessions")
+SESSIONS_DIR = Path(r"your_path")
 SESSIONS_DIR.mkdir(exist_ok=True)
 
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 GEMINI_MODEL = "gemini-1.5-flash"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyArX_2qfS7vI_KfU4pMHQgwa-Z4FaIQHqE"
+os.environ["GOOGLE_API_KEY"] = "your_actual_api_key_here"
 
 # ----------------- SESSION HANDLING -----------------
 if "session_id" not in st.session_state:
