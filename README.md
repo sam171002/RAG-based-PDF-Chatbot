@@ -1,22 +1,22 @@
-# 🤖 DocuMentor-RAG: Your Intelligent PDF Companion
+# DocuMentor-RAG: Your Intelligent PDF Companion
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![LangChain](https://img.shields.io/badge/LangChain-🦜️🔗-orange)
+![LangChain](https://img.shields.io/badge/LangChain--orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI%20Framework-red)
 ![Gemini](https://img.shields.io/badge/Google-Gemini%20AI-lightblue)
 ![RAG](https://img.shields.io/badge/Architecture-RAG-brightgreen)
 
-**DocuMentor** - AI-powered document assistant that reads PDFs so you don't have to! Ask questions in natural language and get instant answers with proper citations. ✨
+**DocuMentor** - AI-powered document assistant that reads PDFs so you don't have to! Ask questions in natural language and get instant answers with proper citations. 
 
-## 🚀 What Makes This Special?
+##  What Makes This Special?
 
-- **📄 PDF Intelligence**: Upload any PDF and chat with it like a knowledgeable expert
-- **🔍 Smart Citations**: Every answer comes with clickable page references
-- **💬 Conversational Memory**: Remembers your chat history within each session
-- **🎯 Accurate Answers**: Powered by Google's Gemini AI with RAG architecture
-- **⚡ Easy to Use**: Beautiful Streamlit interface - no technical knowledge needed!
+- **PDF Intelligence**: Upload any PDF and chat with it like a knowledgeable expert
+- **Smart Citations**: Every answer comes with clickable page references
+- **Conversational Memory**: Remembers your chat history within each session
+- **Accurate Answers**: Powered by Google's Gemini AI with RAG architecture
+- **Easy to Use**: Beautiful Streamlit interface - no technical knowledge needed!
 
-## 🏗️ How It Works 
+##  How It Works 
 
 ```mermaid
 graph LR
@@ -61,7 +61,7 @@ DocuMentor-RAG/
 ├── README.md                 -- This awesome documentation!
 
 
-## Thank you for checking out this project! ❤️
+## Thank you for checking out this project! 
 
     
     
